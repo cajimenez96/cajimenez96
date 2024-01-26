@@ -17,7 +17,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: Soy `estudiante avanzado` en Ing. En Sistemas de Información en Universidad Tecnlógica Nacional - Facultad Regional Tucumán
-- :technologist: Actualmente estoy trabajando como `Frontend Development`
+- :technologist: Actualmente estoy trabajando como `Frontend Development` en el desarrollo de web y app
 - :email: Puedes enviarme un email a este correo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=CarlosJimenez&amp;color=EA4335&amp;style=flat-square)](mailto:carlos.exejimenez@gmail.com)
 
 <br>
