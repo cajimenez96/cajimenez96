@@ -13,6 +13,7 @@
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
+<br>
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
@@ -20,6 +21,7 @@
 - :technologist: Actualmente estoy trabajando como `Frontend Development` en el desarrollo de web y app
 - :email: Puedes enviarme un email a este correo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=CarlosJimenez&amp;color=EA4335&amp;style=flat-square)](mailto:carlos.exejimenez@gmail.com)
 
+<br>
 <br>
 
 ## 🛠️ Tecnologías
